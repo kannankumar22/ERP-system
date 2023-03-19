@@ -55,7 +55,7 @@ This is present in Django Admin -> Attendance (http://127.0.0.1:8000/admin/info/
 Start Date: Start Date of Attendance period  
 End Date: End Date of Attendance period
 
-This will delete all present attendance data and create new attendance objects for the given time range. 
+This will delete all present attendance data and create new attendance objects for the given time range. .
 
 ## Screenshots
 
