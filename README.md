@@ -11,7 +11,7 @@ pip install django
 
 ## Usage
 
-Go to the College-ERP folder and run
+Go to the College-ERP folder and run 
 
 ```bash
 python manage.py runserver
