@@ -31,7 +31,7 @@ teacher- 'trisila'
 
 You can access the django admin page at **http://127.0.0.1:8000/admin** and login with username 'admin' and the above password.
  
-Also a new admin user can be created using
+Also a new admin user can be created using 
 
 ```bash
 python manage.py createsuperuser
