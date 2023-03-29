@@ -7,7 +7,7 @@ Python and Django need to be installed
  
 ```bash
 pip install django 
-```
+``` 
 
 ## Usage
 
